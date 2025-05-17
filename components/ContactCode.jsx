@@ -19,18 +19,18 @@ const contactItems = [
   },
   {
     social: 'LeetCode',
-    link: 'VeXe1199',
-    href: 'https://leetcode.com/u/VeXe1199/',
+    link: 'painkiller0',
+    href: 'https://leetcode.com/u/painkiller0/',
   },
   {
     social: 'CodeForces',
-    link: 'Vexe_1199',
-    href: 'https://codeforces.com/profile/Vexe_1199',
+    link: 'painkiller0',
+    href: 'https://codeforces.com/profile/painkiller0',
   },
   {
     social: 'CodeChef',
-    link: 'vexe1199',
-    href: 'https://www.codechef.com/users/vexe1199',
+    link: 'painkiller0',
+    href: 'https://www.codechef.com/users/painkiller0',
   },
   {
     social: 'instagram',

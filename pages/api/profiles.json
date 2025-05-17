@@ -2,27 +2,27 @@
     {
         "id": 1,
         "platform": "LeetCode",
-        "username": "Vexe1199",
-        "rating": "1920(KNIGHT)",
-        "link": "https://leetcode.com/u/VeXe1199/",
+        "username": "painkiller0",
+        "rating": "2171(Guardian)",
+        "link": "https://leetcode.com/u/painkiller0/",
         "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg",
         "source_code": "https://github.com/VeXe1199/LeetCode"
     },
     {
         "id": 2,
         "platform": "Codeforces",
-        "username": "Vexe_1199",
-        "rating": "1528(SPECIALIST)",
-        "link": "https://codeforces.com/profile/Vexe_1199",
+        "username": "painkiller0",
+        "rating": "1866(Expert)",
+        "link": "https://codeforces.com/profile/painkiller0",
         "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg",
         "source_code": "https://github.com/VeXe1199/Codeforces"
     },
     {
         "id": 3,
         "platform": "CodeChef",
-        "username": "Vexe1199",
-        "rating": "1608(3 STAR)",
-        "link": "https://www.codechef.com/users/vexe1199",
+        "username": "painkiller0",
+        "rating": "2014(5 STAR)",
+        "link": "https://www.codechef.com/users/painkiller0",
         "image": "https://cdn.codechef.com/images/cc-logo.svg",
         "source_code": "https://github.com/VeXe1199/CodeChef"
     }
